@@ -1,0 +1,27 @@
+{
+  "name": "Apartment #34",
+  "description": "Căn hộ tầng 34, diện tích 75m2, 3 phòng, hướng Đông Nam.",
+  "image": "https://via.placeholder.com/300?text=Apartment+Image",
+  "attributes": [
+    {
+      "trait_type": "Tầng",
+      "value": 34
+    },
+    {
+      "trait_type": "Diện tích",
+      "value": "75m2"
+    },
+    {
+      "trait_type": "Số phòng",
+      "value": 3
+    },
+    {
+      "trait_type": "Hướng",
+      "value": "Đông Nam"
+    },
+    {
+      "trait_type": "Lịch sử sở hữu",
+      "value": "Chưa có"
+    }
+  ]
+}
