@@ -130,3 +130,5 @@ npx hardhat run scripts/createApartments.js --network localhost
    npx hardhat compile
    npx hardhat node
    ```
+
+https://docs.google.com/document/d/10gR5hikDQro8OJCms4ryLnUALnhGxVpbWCEAo9ASs7Y/edit?usp=sharing
